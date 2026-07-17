@@ -1,0 +1,5 @@
+{"query": "What is RAG and how does it use a retriever?", "expected_keywords": ["rag", "retriev"]}
+{"query": "Explain what a multi-agent system is.", "expected_keywords": ["agent"]}
+{"query": "What is 12 * (3 + 4)?", "expected_keywords": ["compute"]}
+{"query": "What is MCP used for?", "expected_keywords": ["mcp", "protocol"]}
+{"query": "What does reflection mean for an LLM agent?", "expected_keywords": ["critic", "reflection", "revise"]}
